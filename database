@@ -1,0 +1,11 @@
+CREATE TABLE users(
+id int,
+name varchar(50),
+email varchar(50),
+title varchar(50),
+password int,
+PRIMARY KEY(id));
+INSERT INTO users VALUES(1,'nguyen van hoang','nguyenhoang21@gmail.com','hoang',12345);
+INSERT INTO users VALUES(2,'nguyen van hoang','nguyenhoang22@gmail.com','chinh',12345);
+INSERT INTO users VALUES(3,'nguyen van hoang','nguyenhoang23@gmail.com','tuan',12345);
+INSERT INTO users VALUES(4,'nguyen van hoang','nguyenhoang24@gmail.com','hieu',12345);
