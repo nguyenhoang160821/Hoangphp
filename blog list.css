@@ -1,0 +1,249 @@
+.banner{
+    background-image: url("../images/banner_image1.jpg");
+    background-repeat: round;
+    height: 400px;
+    width: 100%;
+    margin-top: -50px;
+}
+.banner h3{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 150px;
+
+}
+
+.x1{
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.content{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.content a{
+    margin-left: 10px;
+    color: #c7254e;
+    text-decoration: none;
+}
+.loz{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 725px;
+    height: 430px;
+    margin-top: 30px;
+    margin-left: 150px;
+
+}
+.content1{
+    color: #8a6d3b;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.content1 a {
+    margin-left: 10px;
+    color: #6b9dbb;
+}
+.content2{
+    margin-left: 500px;
+    margin-top: -35px;
+}
+.content2 a{
+    margin-left: 10px;
+    color: #c7254e;
+    text-decoration: none;
+}
+.lienminh h2{
+    font-size: 32px;
+    font-family:'Helvetica Neue';
+    margin-left: 30px;
+}
+.lienminh2 p{
+
+    font-size: 18px;
+    margin-left: 40px;
+}
+.tt{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.tt a {
+
+    height: 20px;
+    background-color: #c7254e;
+    text-decoration: none;
+
+}
+.z1{
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.gaugau{
+    border: #f9f2f4;
+    background-color: #f9f2f4;
+    border-style: solid;
+    width: 725px;
+    height: 350px;
+    margin-top: -5px;
+    margin-left: 150px;
+
+}
+.b1 {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.b1 a{
+    text-decoration: none;
+    color: #c7254e;
+}
+.b2{
+    margin-left: 170px;
+    margin-top: -30px;
+}
+.b3{
+    margin-left: 370px;
+    margin-top: -33px;
+}
+.b3 a{
+    color: #c7254e;
+    text-decoration: none;
+}
+.meomeo{
+    border: #f9f2f4;
+    background-color: #f9f2f4;
+    border-style: solid;
+    width: 725px;
+    height: 350px;
+    margin-top: -5px;
+margin-left: 0px;
+}
+.p1a {
+    margin-left: 1000px;
+    margin-top: -3500px;
+}
+.p1 input {
+    height: 40px;
+    font-size: 18px;
+}
+.p2{
+    margin-top: -34px;
+    margin-left: 230px
+
+}
+.R1{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 310px;
+    height: 350px;
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-top: 30px;
+
+
+}
+.R1 h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.R1 p{
+    margin-left: 10px;
+}
+.R1 a{
+    text-decoration: none;
+}
+.R1 li {
+
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.R2{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 310px;
+    height: 250px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 1000px;
+}
+.R2 li{
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.R2 a{
+    text-decoration: none;
+}
+.R2 h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.R3{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 310px;
+    height: 250px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 1000px;
+}
+.R3 li{
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.R3 a{
+    text-decoration: none;
+}
+.R3 h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.R4{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 310px;
+    height: 250px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 1000px;
+}
+.R4 li{
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.R4 a{
+    text-decoration: none;
+}
+.R4 h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.R5{
+    border: #f9f2f4;
+    border-style: solid;
+    width: 310px;
+    height: 250px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 1000px;
+}
+.R5 h3{
+    margin-left: 10px;
+}
+.R5 li{
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.R5 a{
+    text-decoration: none;
+}
