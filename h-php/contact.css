@@ -1,0 +1,193 @@
+.banner{
+    background-image: url("../images/banner_image1.jpg");
+    background-repeat: round;
+    height: 400px;
+    width: 100%;
+    margin-top: -50px;
+}
+.banner h3{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 150px;
+
+}
+.dog{
+    border: #f9f2f4;
+    background-color: #ffffff;
+    border-style: solid;
+    width: 800px;
+    height: 1000px;
+    margin-top: -100px;
+    margin-left: 150px;
+
+}
+.dog .loz1{
+    text-align: center;
+}
+.loz1 small{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color: #fff;
+    background: #101010;
+    display: inline-block;
+    padding: 3px 18px;
+    text-transform: uppercase;
+    margin-top: 60px;
+}
+
+.dog .mu h3{
+    font-size: 30px;
+text-align: center;
+    margin-top: 10px;
+}
+.mu span{
+font-size: 50px;
+}
+.name input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left:45px;
+    height: 45px;
+}
+
+.last input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+}
+.your input {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left: 45px;
+    height: 45px;
+}
+
+.phone input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+}
+.sub input {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left: 45px;
+    height: 45px;
+}
+.ge select  {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+    width: 150px;
+}
+.mess textarea{
+    height: 245px;
+    width: 750px;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 25px;
+    border: 1px solid #e8e8eb;
+
+}
+.sum input{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color: #fff;
+    background: #101010;
+    display: inline-block;
+    padding: 3px 18px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.hahaha{
+    border: #f9f2f4;
+    background-color:#f9f2f4;
+    border-style: solid;
+    width: 400px;
+    height: 1000px;
+    margin-top: -1020.5px;
+    margin-left: 953px;
+
+}
+.gu h3{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.gu span{
+    font-size: 50px;
+}
+.uni h2{
+    margin-left:30px ;
+}
+.uni1{
+    margin-left: 30px;
+    font-size: 18px;
+}
+.uni2{
+    margin-left: 30px;
+    font-size: 18px;
+}
+.uni2 a{
+    text-decoration: none;
+    color: #c7254e;
+}
+.uni3{
+    margin-left: 30px;
+    font-size: 18px;
+}
+.uni3 a{
+    text-decoration: none;
+    color: #c7254e;
+}
+.king h2{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.bando{
+
+    margin-top: 70px;
+}
+.yeu{
+margin-top: 30px;
+    background-color: #f9f2f4;
+    height: 130px;
+    width: 100%;
+    margin-left: 0px;
+}
+.h1 {
+    margin-left: 50px;
+}
+.yeu img{
+    margin-top: 40px;
+}
+.h2{
+    margin-left: 300px;
+    margin-top: -88px;
+}
+.h3{
+margin-top: -88px;
+    margin-left: 550px;
+
+}
+.h4{
+margin-top: -90px;
+    margin-left: 900px;
+
+}
+.h5{
+margin-top: -88px;
+    margin-left: 1250px;
+
+}
